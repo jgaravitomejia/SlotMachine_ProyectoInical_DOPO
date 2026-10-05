@@ -12,5 +12,3 @@ Proyecto Inicial, Ciclo No. 1 — 2026-2
 - Juan Sebastian Garavito Mejia
 - Laila Zareth Romano Guerrero
 
-> En esta entrega **no se resuelve el problema de la maratón**; solo se construye el
-> simulador de la máquina.
